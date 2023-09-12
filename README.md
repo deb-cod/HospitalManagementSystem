@@ -10,6 +10,7 @@ Add Patient:
 ![Add_Patient](https://github.com/deb-cod/HospitalManagementSystem/assets/83533796/6a6789d4-aea7-4b8c-8d35-88538daadcd7)
 
 Sql Database:
+
 ![Sql_Database](https://github.com/deb-cod/HospitalManagementSystem/assets/83533796/f98c1a45-701b-47dd-925a-c448169e47fc)
 
 
